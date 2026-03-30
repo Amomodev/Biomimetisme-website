@@ -1,0 +1,47 @@
+================================================================================
+📜 SCRIPT DE PRÉSENTATION - BIOMIMÉTISME
+================================================================================
+
+========================================
+🎤 PARTIE 1 : AMAURY (Intro, Aviation, Militaire)
+========================================
+
+[Introduction]
+Bonjour à tous ! Aujourd'hui, nous allons vous parler de Biomimétisme. Le biomimétisme, c'est l'art d'innover en s'inspirant de la nature. La nature est un immense laboratoire de R&D qui fait des tests depuis presque 4 milliards d'années. Nous allons vous présenter 6 exemples frappants de cette science.
+
+[Exemple 1 : L'Aviation]
+Le premier domaine qui s'en inspire massivement, c'est l'aviation. Vous avez sûrement déjà remarqué que les bouts des ailes des avions commerciaux, comme l'Airbus A350, sont recourbés vers le haut. C'est ce qu'on appelle des "winglets". C'est directement inspiré des ailes des grands rapaces en plein vol ! En ajoutant cette ailette, on empêche l'air sous haute pression (sous l'aile) de remonter brutalement au-dessus, réduisant ainsi les tourbillons à l'arrière. Le résultat ? On gagne 20% de traînée en moins et on fait d'énormes économies de carburant.
+
+[Exemple 2 : Le Militaire]
+Dans un tout autre registre, le secteur militaire s'inspire de la faune marine pour le camouflage... et plus précisément des céphalopodes, comme la seiche ou le poulpe. Pour se cacher de leurs prédateurs ou surprendre leurs proies, ces animaux utilisent des "chromatophores" : des petites cellules pigmentées qu'ils contractent à volonté pour changer instantanément la couleur et même la texture de leur peau en fonction du fond rocheux ou sableux. C'est ce principe de camouflage adaptatif dynamique que les ingénieurs essaient de reproduire sur des véhicules ou des tenues de combat pour les rendre invisibles aux thermographes.
+
+(Je laisse la parole à Malo...)
+
+========================================
+🎤 PARTIE 2 : MALO (Shinkansen, Velcro)
+========================================
+
+[Exemple 3 : Le Shinkansen]
+Merci Amaury. Pour mon premier point, direction le Japon. Dans les années 90, le Shinkansen, le train à grande vitesse japonais, avait un gros problème : en entrant dans les tunnels à plus de 300 km/h, il compressait l'air et provoquait une énorme vague de pression, créant un gros "Bang" sonore à la sortie.
+Pour régler ça, l'ingénieur principal a observé le Martin-pêcheur, un oiseau capable de plonger à grande vitesse dans l'eau sans faire la moindre éclaboussure. Il a redessiné le nez du train en calquant la forme et l'aérodynamisme du bec de cet oiseau. Résultat : plus aucun Bang, le train va 10% plus vite et consomme 15% d'énergie en moins. 
+
+[Exemple 4 : Le Velcro]
+Deuxième exemple très connu que vous avez sans doute eu sur vos baskets quand vous étiez petits : le Velcro ! Son invention remonte à 1941, par l'ingénieur suisse Georges de Mestral. En rentrant de promenade avec son chien, il s'est demandé pourquoi les drôles de petits fruits de la Bardane – ces petites boules vertes – s'accrochaient si bien à ses vêtements et aux poils du chien. En regardant au microscope, il a découvert que ces fruits étaient recouverts de minuscules crochets élastiques. C’est en reproduisant ces crochets face à une surface de boucles en tissu qu'il a inventé ce qu'on appelle communément "le scratch". Un système tellement efficace que même la NASA l'utilise pour attacher des objets en apesanteur.
+
+(Je laisse la parole à Gustave...)
+
+========================================
+🎤 PARTIE 3 : GUSTAVE (Gecko, Lotus, Conclusion)
+========================================
+
+[Exemple 5 : Le Gecko]
+Je prends la suite avec l'adhérence absolue. Le Gecko est un petit lézard fascinant : il peut courir au plafond, à l'envers, ou grimper sur une vitre de verre parfaitement lisse. Comment fait-il ? Il n'a ni ventouse ni colle. En fait, ses pattes sont recouvertes de millions de poils microscopiques, qui se scindent en dizaines de spatules encore plus petites. Elles sont tellement fines qu'elles créent des forces d'attraction à l'échelle moléculaire avec la surface, qu'on appelle les Forces de van der Waals. 
+Aujourd'hui, plein de laboratoires s'inspirent de ces pattes de gecko pour fabriquer des robots grimpeurs et des adhésifs "secs" surpuissants qui collent et se décollent à l'infini.
+
+[Exemple 6 : L'Effet Lotus]
+Mon deuxième exemple concerne une plante : la feuille de Lotus. Si vous observez bien, les feuilles de lotus restent toujours propres, l'eau et la saleté glissent dessus sans jamais s'incruster. Ce qu'on appelle "la superhydrophobie". Ce n'est pas parce que la feuille est lisse, c'est l'inverse ! À l'échelle nanométrique, la feuille est couverte de minuscules rugosités de cire. La goutte d'eau, ne trouvant pas d'appui plat, reste en forme de sphère et roule à la moindre inclinaison, embarquant la poussière avec elle. Aujourd'hui on utilise exactement ce même procédé en industrie pour fabriquer des vitres, des peintures pour bâtiments et même des textiles autonettoyants !
+
+[Conclusion]
+Pour conclure : que ça soit pour nos transports, notre sécurité spatiale, pour coller ou pour nettoyer, la nature est une bibliothèque d'inventions quasi-inépuisable. Le biomimétisme, ce n'est pas seulement copier la nature, c'est apprendre de son génie pour construire un futur plus efficace et plus durable. Merci de nous avoir écoutés !
+
+================================================================================
